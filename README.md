@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Marketing APIs That Drive ROI hero banner" width="100%" />
+<img src="./assets/hero.png" alt="Marketing APIs That Drive ROI hero banner" width="100%" />
 
 <br />
 <br />
