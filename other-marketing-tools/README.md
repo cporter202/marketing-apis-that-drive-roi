@@ -109,6 +109,10 @@ Email deliverability, competitive intel, attribution helpers, and misc marketing
 | [Zillow Scraper &#124; $5/1K &#124; Prices & Zestimates (Real-Time)](https://apify.com/apivault_labs/zillow-scraper?fpr=p2hrc6) | Scrape Zillow property listings in real-time. Extract prices, Zestimates, bedrooms, bathrooms, sqft, year built, lot size, HOA fees, listing agent, brokerage, property type & photos. Fresh data — not... |
 | [Парсер 2ГИС онлайн: телефоны, email и база компаний](https://apify.com/tugelbay/2gis-scraper?fpr=p2hrc6) | Парсер 2ГИС онлайн: телефоны, сайты, email, отзывы, координаты компаний из России, Казахстана, ОАЭ, Узбекистана, Кыргызстана, Армении, Грузии и Азербайджана. Excel, CSV и API. Guide:... |
 | [Парсер Wildberries: товары, цены и продавцы](https://apify.com/tugelbay/wb-seller-intel?fpr=p2hrc6) | Парсер Wildberries для анализа товаров, цен, скидок, остатков и продавцов. Поиск по русским запросам или nmId, supplier ID, рейтинг, отзывы, цены в рублях. Guide:... |
+| [Lead Contact Extractor API](https://apimesa.com) | Scans any public web page and returns its email addresses, phone numbers, and social profile links as clean structured data. |
+| [Email Finder API](https://apimesa.com) | Finds a person's work email from their name and company domain using MX validation, homepage scraping, and real SMTP verification. |
+| [Local Lead Finder](https://apimesa.com) | Find real local businesses for any trade in any city — names, addresses, phones, and websites pulled live from OpenStreetMap data. |
+| [Bulk Email Validator](https://apimesa.com) | Validate up to 100 emails in one call with syntax, MX-record, disposable-domain, and role-based checks — 30 credits per call. |
 
 ---
 
