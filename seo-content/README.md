@@ -86,6 +86,12 @@ Rank tracking, SERP data, keywords, backlinks, and content SEO/GEO.
 | [YouTube Scraper](https://apify.com/magicfingers/youtube-scraper?fpr=p2hrc6) | Scrape YouTube videos, channels, comments, and playlists. Search by keyword, extract video details, comments, channel info, and playlist contents. |
 | [YouTube SEO Keyword Research Pro — Search, Tags, Trends](https://apify.com/sian.agency/youtube-seo-keyword-research-pro?fpr=p2hrc6) | Complete YouTube SEO keyword research toolkit. From one keyword get top search results, autocomplete suggestions, related videos, and trending hashtags. Built for creators, SEO agencies, and content... |
 | [YouTube Video 360 Intelligence — Bundle Scraper](https://apify.com/sian.agency/youtube-video-360-intelligence?fpr=p2hrc6) | The most complete YouTube video snapshot on Apify. Metadata, transcript, related videos, and subtitle languages in one parallel run. Built for AI training, journalism, video SEO, and content... |
+| [UTM Builder API](https://apimesa.com) | Build clean campaign tracking URLs for ads, newsletters, influencer links, and product launches. |
+| [UTM Parse API](https://apimesa.com) | Extract UTM campaign parameters from any tracked URL for attribution, reporting, and QA workflows. |
+| [Meta Tags API](https://apimesa.com) | Generate search, Open Graph, and Twitter/X meta tags with basic length checks for titles and descriptions. |
+| [Robots.txt API](https://apimesa.com) | Generate robots.txt content for crawlers, private app paths, and sitemap discovery. |
+| [Sitemap XML API](https://apimesa.com) | Generate valid XML sitemaps from URL lists for launches, static sites, and SEO automation. |
+| [Schema.org JSON-LD API](https://apimesa.com) | Generate structured data snippets for articles, products, organizations, local businesses, and websites. |
 
 ---
 
