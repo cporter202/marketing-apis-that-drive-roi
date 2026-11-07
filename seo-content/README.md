@@ -15,6 +15,7 @@ Rank tracking, SERP data, keywords, backlinks, and content SEO/GEO.
 
 | API Name | Description |
 |----------|-------------|
+| [GoAnyAPI](https://goanyapi.com) | SEO and web-data APIs plus an official MCP server: SERP, keyword difficulty/suggestions/search volume, backlinks, domain rating history, website traffic and Google Ads Transparency. |
 | [♿ WCAG 2.2 Accessibility Auditor — Bulk axe-core](https://apify.com/nexgendata/wcag-accessibility-auditor?fpr=p2hrc6) | Bulk WCAG 2.2 accessibility auditor. Render sites with Chrome, scan with axe-core, return violations, severity, and score. |
 | [📣 Business Wire Press Releases — Company Announcement Monitor](https://apify.com/nexgendata/business-wire-press-releases-scraper?fpr=p2hrc6) | Monitor Business Wire press releases by company, ticker or keyword — headline, link, date and sentiment on every release. No login, no key, pay per release. |
 | [📰 EIN Presswire Press Releases — Newswire Monitor](https://apify.com/nexgendata/ein-presswire-press-releases-scraper?fpr=p2hrc6) | Monitor EIN Presswire releases by company, brand or keyword — headline, link, date and sentiment on every release. No login, no key, pay per release. |
